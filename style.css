@@ -4,7 +4,6 @@
 
 body {
     margin: 0;
-    font-family: "Hiragino Sans W3", "Hiragino Kaku Gothic ProN", "ヒラギノ角ゴ ProN W3", "メイリオ", Meiryo, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
     background-color: white;
 }
 
@@ -26,7 +25,6 @@ header {
     text-decoration: none;
     padding: 10px;
     transition:0.5s;
-    font-family: "Monotype Corsiva";
     background-color: antiquewhite;
 }
 .logo a:hover{
